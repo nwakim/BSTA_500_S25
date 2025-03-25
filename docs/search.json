@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Schedule",
+    "section": "",
+    "text": "Week\nDate\nTopic\nReading\nActivity\n\n\n\n\n1\n\nIntro\n\nBest practices for analyzing large-scale health data from wearables and smartphone apps\n\n\n\n\n2\n\nResearch Questions\n\nFunctional Data Analysis with R, Section 1.2.1\n\n\nUse R to explore NHANES data\nReproduce Figure 1.1\n\n\n\n3\n\nPrepare Data\n\nacc: An R package to process, visualize, and analyze accelerometer data\n\n\nUse some of the functions in acc to explore your data\n\n\n\n4\n\nPrepare Data: Missing data\n\nA framework for handling missing accelerometer outcome data in trials\n\n\n\n\n5\n\nAnalyze Data\n\nA Review of Statistical Analyses on Physical Activity Data Collected from Accelerometers\n\n\n\n\n6\n\nAnalyze Data 1: Cross-sectional studies\n\nThe associations of physical activity patterns and the triglyceride-glucose index in US adults: a secondary data analysis of NHANES (2007–2018)\n\n\n\n\n7\n\nAnalyze Data 2: Longitudinal Data Analysis\n\nAssociation of Longitudinal Activity Measures and Diabetes Risk: An Analysis From the National Institutes of Health All of Us Research Program\n\n\n\n\n8\n\nAnalyze Data 3: Functional Data Analysis\n\nhttps://www.youtube.com/watch?v=FjIK3YzUGG4&ab_channel=FunDataScience\nFunctional Data Analysis with R, Section 4.0-4.1\n\n\nWork through the R code for Section 4.0-4.1\n\n\n\n9\n\nAnalyze Data 3: Functional Data Analysis\n\nFunctional Data Analysis with R, Section 4.2-4.3\n\n\nWork through the R code for Section 4.2-4.3\n\n\n\n10\n\nShare Results\n\nTBD\n\n\n\n\n11"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": "Schedule",
+    "section": "",
+    "text": "Week\nDate\nTopic\nReading\nActivity\n\n\n\n\n1\n\nIntro\n\nBest practices for analyzing large-scale health data from wearables and smartphone apps\n\n\n\n\n2\n\nResearch Questions\n\nFunctional Data Analysis with R, Section 1.2.1\n\n\nUse R to explore NHANES data\nReproduce Figure 1.1\n\n\n\n3\n\nPrepare Data\n\nacc: An R package to process, visualize, and analyze accelerometer data\n\n\nUse some of the functions in acc to explore your data\n\n\n\n4\n\nPrepare Data: Missing data\n\nA framework for handling missing accelerometer outcome data in trials\n\n\n\n\n5\n\nAnalyze Data\n\nA Review of Statistical Analyses on Physical Activity Data Collected from Accelerometers\n\n\n\n\n6\n\nAnalyze Data 1: Cross-sectional studies\n\nThe associations of physical activity patterns and the triglyceride-glucose index in US adults: a secondary data analysis of NHANES (2007–2018)\n\n\n\n\n7\n\nAnalyze Data 2: Longitudinal Data Analysis\n\nAssociation of Longitudinal Activity Measures and Diabetes Risk: An Analysis From the National Institutes of Health All of Us Research Program\n\n\n\n\n8\n\nAnalyze Data 3: Functional Data Analysis\n\nhttps://www.youtube.com/watch?v=FjIK3YzUGG4&ab_channel=FunDataScience\nFunctional Data Analysis with R, Section 4.0-4.1\n\n\nWork through the R code for Section 4.0-4.1\n\n\n\n9\n\nAnalyze Data 3: Functional Data Analysis\n\nFunctional Data Analysis with R, Section 4.2-4.3\n\n\nWork through the R code for Section 4.2-4.3\n\n\n\n10\n\nShare Results\n\nTBD\n\n\n\n\n11"
+  }
+]

@@ -1,0 +1,23 @@
+project:
+  type: website
+  execute-dir: project
+  output-dir: docs
+
+website:
+  title: "Wearable Device Data"
+  navbar:
+    background: primary
+    search: true
+    logo: "images/bsta_512_hex.png"
+    foreground: "#fff"
+    collapse-below: sm
+
+execute:
+  freeze: auto
+
+format:
+  html:
+    theme:
+      - sandstone_NW.scss
+    toc: true
+
