@@ -11,7 +11,7 @@ editor_options:
 
 # Course information
 
-We will be working with the NHANES dataset curated by the textbook, Functional Data Analysis with R.
+We will be working with [the NHANES dataset](https://functionaldataanalysis.org/dataset_nhanes.html) curated by the textbook, Functional Data Analysis with R.
 
 # Schedule
 
@@ -45,4 +45,4 @@ We will be working with the NHANES dataset curated by the textbook, Functional D
 | 11   |                     |                                            |                                                                                                                                                                                                                                                                                                                                                                                  |                                                             |
 +------+---------------------+--------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------+
 
-: {.striped .hover tbl-colwidths="\[6, 6, 6, 20,20\]"}
+: {.striped .hover tbl-colwidths="\[4, 6, 6, 20,20\]"}
